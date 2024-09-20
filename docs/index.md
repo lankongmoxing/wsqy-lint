@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "wsqy-lint"
-  text: "A VitePress Site"
+  text: "文思泉涌 lint 工具包"
   tagline: My great project tagline
   actions:
     - theme: brand
