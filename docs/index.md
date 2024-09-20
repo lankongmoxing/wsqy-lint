@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "wsqy-lint"
+  name: "wsqy-lint6"
   text: "文思泉涌 lint 工具包"
   tagline: My great project tagline
   actions:
