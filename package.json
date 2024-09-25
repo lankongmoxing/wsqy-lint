@@ -1,11 +1,13 @@
 {
   "devDependencies": {
+    "husky": "^9.1.6",
     "vitepress": "^1.3.4"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "prepare": "husky"
   },
   "packageManager": "pnpm@8.14.1"
 }

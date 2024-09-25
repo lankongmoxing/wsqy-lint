@@ -9,3 +9,5 @@ wsyq lint
 ## lint
 
 ### commitlit
+
+husky
