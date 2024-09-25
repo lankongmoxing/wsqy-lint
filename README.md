@@ -8,6 +8,9 @@ wsyq lint
 
 ## lint
 
-### commitlit
+### commitlint
 
-husky
+### husky
+
+提交之前执行预设的命令
+

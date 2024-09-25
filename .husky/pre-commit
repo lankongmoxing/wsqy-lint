@@ -1,1 +1,3 @@
-pnpm test
+# pnpm test
+
+npx commitlint --edit $1
